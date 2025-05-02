@@ -284,11 +284,10 @@
   margin-top: 10px;
   line-height: 116%;
   text-align: center;
- 
 }
 
-.footer--menu--list{
-    list-style: none;
+.footer--menu--list {
+  list-style: none;
 }
 
 .footer--social--list {
