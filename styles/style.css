@@ -6,10 +6,10 @@
 }
 
 .header--logo {
-    display: block;
-    width: 140px;
-    align-items: center;
-    justify-content: center;
+  display: block;
+  width: 140px;
+  align-items: center;
+  justify-content: center;
 }
 
 .header--menu--list {
@@ -40,6 +40,10 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 24.3px;
+}
+
+.container {
+  max-width: 1100px;
 }
 
 .cover {
